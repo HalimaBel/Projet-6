@@ -1,10 +1,9 @@
 # Projet-6
 ### Analysez les ventes d'une librairie
 
-#### Scénario : Vous êtes consultant Data Analyst chez Lapage, une grande librairie
-généraliste en ligne très réputée. Vous êtes directement rattaché au service Marketing.
+#### Scénario : Vous êtes consultant Data Analyst chez Lapage, une grande librairie généraliste en ligne très réputée. 
 
-#### Votre mission consiste à évaluer la performance de la librairie en ligne après deux ans d'existence. 
+#### Vous êtes directement rattaché au service Marketing et votre mission consiste à évaluer la performance de la librairie en ligne après deux ans d'existence. 
 
 Vous travaillerez en collaboration avec l'équipe Marketing pour analyser les indicateurs de vente, répondant aux demandes d'Antoine, et comprendre les comportements des clients en ligne en examinant les corrélations entre le genre des clients, l'âge et divers aspects des achats.
 
