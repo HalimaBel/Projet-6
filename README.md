@@ -11,4 +11,12 @@ Vous travaillerez en collaboration avec l'équipe Marketing pour analyser les in
 
 Les résultats de votre analyse contribueront à prendre des décisions stratégiques, telles que l'ajustement des offres ou des prix, pour améliorer la performance globale de la librairie en ligne.
 
+### Objectifs projet 6 : 
+
+- Réaliser un test statistique;
+  
+- Réaliser une analyse bivariée pour interpréter des données;
+  
+- Analyser des séries temporelles.
+
 
